@@ -1,0 +1,1 @@
+do shell script "date +\"%r\" | /usr/local/Cellar/terminal-notifier/2.0.0/terminal-notifier.app/Contents/MacOS/terminal-notifier -title Time -sound default"
